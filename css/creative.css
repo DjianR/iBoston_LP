@@ -187,6 +187,14 @@ header {
     background-size: cover;
     -o-background-size: cover;
 }
+#about {
+    background-image: url(../img/metodologia.jpg);
+    background-position: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 
 header .header-content {
     position: relative;
