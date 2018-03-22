@@ -172,6 +172,19 @@ aside {
     .navbar-default.affix .nav>li>a:focus:hover {
         color: #337ab7;
     }
+    header {
+        position: relative;
+        width: 100%;
+        min-height: auto;
+        text-align: center;
+        color: #fff;
+        background-image: url(../img/fachada-web-HD2.jpg);
+        background-position: auto center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+    }
 }
 
 header {
